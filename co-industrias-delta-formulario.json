@@ -1,0 +1,104 @@
+[
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C3",
+    "etiqueta": "Razón social",
+    "valor": "Periferia IT Group S.A.S."
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C4",
+    "etiqueta": "NIT",
+    "valor": "900123456"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C5",
+    "etiqueta": "Dígito de verificación",
+    "valor": "7"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C6",
+    "etiqueta": "Dirección",
+    "valor": "Calle 10 # 43A-25, Oficina 501"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C7",
+    "etiqueta": "Ciudad",
+    "valor": "Medellín"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C8",
+    "etiqueta": "Código postal",
+    "valor": "050021"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C9",
+    "etiqueta": "Teléfono",
+    "valor": "+57 604 555 0100"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C10",
+    "etiqueta": "Correo electrónico",
+    "valor": "lgomez@periferia-ficticia.com"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C11",
+    "etiqueta": "Representante legal",
+    "valor": "Roberto Andrade Salazar"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C12",
+    "etiqueta": "Cédula del representante legal",
+    "valor": "71555123"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C13",
+    "etiqueta": "Actividad económica",
+    "valor": "Desarrollo de sistemas informáticos y consultoría en tecnologías de la información"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C14",
+    "etiqueta": "Código CIIU",
+    "valor": "6201"
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda": "C15",
+    "etiqueta": "Régimen tributario",
+    "valor": "Responsable de IVA"
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda": "C3",
+    "etiqueta": "Banco",
+    "valor": "Bancolombia S.A."
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda": "C4",
+    "etiqueta": "Tipo de cuenta",
+    "valor": "Ahorros"
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda": "C5",
+    "etiqueta": "Número de cuenta",
+    "valor": "03100012345"
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda": "C6",
+    "etiqueta": "Titular de la cuenta",
+    "valor": "Periferia IT Group S.A.S."
+  }
+]
